@@ -11,6 +11,78 @@
       "name": "Family Expenses",
       "type": "expense",
       "amount": 200000
+    },
+    {
+      "name": "holu",
+      "type": "income",
+      "amount": 3333,
+      "id": 3
+    },
+    {
+      "name": "holu",
+      "type": "income",
+      "amount": 3333,
+      "id": 4
+    },
+    {
+      "name": "holu",
+      "type": "income",
+      "amount": 3333,
+      "id": 5
+    },
+    {
+      "name": "holu",
+      "type": "income",
+      "amount": 3333,
+      "id": 6
+    },
+    {
+      "name": "holu",
+      "type": "income",
+      "amount": 3333,
+      "id": 7
+    },
+    {
+      "name": "ami",
+      "type": "income",
+      "amount": 20,
+      "id": 8
+    },
+    {
+      "name": "ami",
+      "type": "income",
+      "amount": 20,
+      "id": 9
+    },
+    {
+      "name": "Noor Mohammad",
+      "type": "income",
+      "amount": 20,
+      "id": 10
+    },
+    {
+      "name": "Noor Mohammad",
+      "type": "income",
+      "amount": 20,
+      "id": 11
+    },
+    {
+      "name": "Noor Mohammad",
+      "type": "income",
+      "amount": 20,
+      "id": 12
+    },
+    {
+      "name": "Noor Mohammad",
+      "type": "income",
+      "amount": 20,
+      "id": 13
+    },
+    {
+      "name": "Noor Mohammad",
+      "type": "expense",
+      "amount": 33,
+      "id": 14
     }
   ]
 }
