@@ -83,6 +83,24 @@
       "type": "expense",
       "amount": 33,
       "id": 14
+    },
+    {
+      "name": "selary form google",
+      "type": "income",
+      "amount": 10000,
+      "id": 15
+    },
+    {
+      "name": "family",
+      "type": "expense",
+      "amount": 10000,
+      "id": 16
+    },
+    {
+      "name": "family",
+      "type": "expense",
+      "amount": 10000,
+      "id": 17
     }
   ]
 }
